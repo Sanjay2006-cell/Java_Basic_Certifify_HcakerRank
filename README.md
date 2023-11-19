@@ -1,1 +1,1 @@
-# Java_Basic_Certifify_HcakerRank
+# Java_Basic_Certifify_HackerRank_Solution
